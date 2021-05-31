@@ -1,1 +1,1 @@
-<p>This is git and github trial</p>
+<p>This is git and github trial for beginners</p>
