@@ -1,1 +1,0 @@
-<p>This is git and github trial for beginners</p>
